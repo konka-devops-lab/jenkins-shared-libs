@@ -1,3 +1,3 @@
-def call(string message){
+def call(String message){
     echo "Notifying to slack channel: ${message}"
 }
